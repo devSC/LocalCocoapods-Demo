@@ -1,0 +1,22 @@
+{
+  "name": "TestClass",
+  "version": "0.1.0",
+  "summary": "A short description of TestClass.",
+  "description": "TEST DEMO PROJECT",
+  "homepage": "https://github.com/devSC/TestClass",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "devSC": "xiaochong2154@163.com"
+  },
+  "source": {
+    "git": "https://github.com/devSC/TestClass.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestClass/Classes/**/*"
+}

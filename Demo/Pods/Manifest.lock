@@ -1,0 +1,16 @@
+PODS:
+  - TestClass (0.1.0)
+
+DEPENDENCIES:
+  - TestClass (from `./Vendor/TestClass`)
+
+EXTERNAL SOURCES:
+  TestClass:
+    :path: ./Vendor/TestClass
+
+SPEC CHECKSUMS:
+  TestClass: 5566ebdc59ca676e9b288271f8ff54d94104223d
+
+PODFILE CHECKSUM: 95763b770b9fd9fce197de828a6e68b37588450b
+
+COCOAPODS: 1.3.0.beta.2
